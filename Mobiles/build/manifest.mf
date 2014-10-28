@@ -1,0 +1,17 @@
+MIDlet-6: PlusMatriz, , practicas.PlusMatriz
+MIDlet-7: FirstTextField, , practicas.FirstTextField
+MIDlet-8: Buttons, , buttons.Buttons
+MIDlet-9: Agenda, , proyects.Agenda
+MIDlet-2: Divicion, , practicas.Divicion
+MIDlet-3: Numeros, , practicas.Numeros
+MIDlet-4: Imagen, , imagenes.Imagen
+MIDlet-5: PixelMove, , buttons.PixelMove
+MIDlet-11: Reproductor, , reproductor.Reproductor
+MIDlet-12: Music, , reproductor.Music
+MIDlet-1: Determinante, , practicas.Determinante
+MIDlet-10: reproductor, , reproductor.reproductor
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MIDlet-Name: Mobiles
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
